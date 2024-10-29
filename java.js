@@ -120,7 +120,7 @@ function setStatusClass(element, correct) {
     } else {
         element.classList.add('wrong');
     }
-}
+}w
 
 function clearStatusClass(element) {
     element.classList.remove('correct');
